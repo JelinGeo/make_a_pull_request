@@ -7,6 +7,7 @@ Please put your first and second name here, link it to your GitHub profile, and 
 - [Philipp Tillmann](https://github.com/tillmannphilipp99): _The Price of Nails Since 1695: A Window into Economic Change_
 - [Lisanne vom Schemm](https://github.com/lisanneschemm):_Brexit: The Economics of International Disintegration_
 - [Gina Overath](https://github.com/gover1312): _Women in Economics: Stalled Progress_
+- [Jelin George](https://github.com/JelinGeo): _The Importance of Summary Statistics and Techniques for Creating Them in R
 - [Felix Meven](https://github.com/Flix1000): _Profiting from Regulation: Evidence from the European Carbon Market_
 - [Qusai Alrabadi](https://github.com/QALRAB): _Review on: The Phillips Curve and Global Inflationary Pressures_
 - [Sonali Agrawal](https://github.com/SonaliAgraw): _Data Science report Presentation Vitthal-Shukla Sonali-Agrawal Huber_
